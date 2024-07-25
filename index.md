@@ -14,3 +14,9 @@ print(sum)
 ```javascript
 let user = "fernandoalvear21"; 
 ```
+
+Now, we add a to-do list!
+
+- [x] Create a new repo
+- [x] Add some cool content
+- [ ] Pass the GitHub exam
